@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About the App
+
+Users can use the search box in the app to get results for different recipes from an API. For example, a search query with the word "Banana" would lead to the presentation of banana-based recipes on the page. 
+
 ## Progress
 
 ![Screenshot](progress.png)
